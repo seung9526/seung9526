@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=Logstash&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=Kibana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/>
   
 
 <!--
