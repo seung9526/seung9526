@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square"/>
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
-
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=seung9526&show_icons=true">
 
