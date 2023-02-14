@@ -5,11 +5,12 @@
 ### ✨ Skils  
 <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square"/>  
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>  
-
+<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=seung9526&show_icons=true">  
-
+<p>
 ### Tool  
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logoVisual Studio Code&logoColor=white"/>
