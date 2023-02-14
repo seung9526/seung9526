@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&text=%20GeungMin%20%20&height=200&fontSize=100)
 
-### 🫧Welcome to Visit 👋
+### 🫧 Welcome to Visit 👋
+
+### ✨ Skils
+Platforms & Languages
+<img src="https://img.shields.io/badge/Java-5382a1?style=flat-square"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=seung9526&show_icons=true">
 
