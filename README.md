@@ -2,6 +2,10 @@
 
 ### 🫧Welcome to Visit 👋
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seung9526&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=seung9526&show_icons=true">
+
+
 <!--
 **seung9526/seung9526** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
