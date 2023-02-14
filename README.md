@@ -2,7 +2,6 @@
 
 ### 🫧Welcome to Visit 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seung9526&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=seung9526&show_icons=true">
 
 
