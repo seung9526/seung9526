@@ -2,7 +2,8 @@
 
 ### 🫧 Welcome to Visit 👋  
 
-### ✨ Skils  
+### ✨ Skils
+<p>
 <img src="https://img.shields.io/badge/Java-5382a1?style=flat-square"/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square"/>
@@ -11,7 +12,8 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=seung9526&show_icons=true">  
 <p>
-### Tool  
+### Tool
+<p>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logoVisual Studio Code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
